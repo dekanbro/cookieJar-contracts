@@ -1,0 +1,11 @@
+@prb/test/=lib/prb-test/src/
+ds-test/=lib/forge-std/lib/ds-test/src/
+forge-std/=lib/forge-std/src/
+openzeppelin-contracts/=lib/openzeppelin-contracts/
+prb-math/=lib/prb-math/src/
+prb-test/=lib/prb-test/src/
+src/=src/
+@gnosis.pm/safe-contracts/=lib/safe-contracts/
+@gnosis.pm/zodiac/=lib/zodiac/
+@openzeppelin/contracts/=lib/openzeppelin-contracts/contracts/
+@openzeppelin/contracts-upgradeable/=lib/openzeppelin-contracts-upgradeable/contracts/

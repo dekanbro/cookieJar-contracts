@@ -1,0 +1,10 @@
+{
+  "gnosis": {
+    "baalCookieJar": "0x858FA89820BF3D886F94C7841C676bE2A14bd8e9",
+    "erc20CookieJar": "0x8222562D89d4Bd5E81aAb9Bf0A71d09c384fD79D",
+    "erc721CookieJar": "0xBAe9eFeE8D4D95149a1618a8604371982573F5c6",
+    "listCookieJar": "0x0a21c5d7aA2e9b36C213842762ABDDd13aa21761",
+    "openCookieJar": "0x9Ea3Ee1A0D06f59fA2174BC1840219a3892bf870",
+    "summonCookieJar": "0x4e31D58068fcdFA0666D0D9e1B809673aB00c126"
+  }
+}
